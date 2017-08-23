@@ -154,4 +154,4 @@ A redeploy will happen automatically due to the `ConfigChange` trigger.
 This repository is compatible with Ruby 2.3 and higher, excluding any alpha or beta versions.
 
 ### License
-This code is dedicated to the public domain to the maximum extent permitted by applicable law, pursuant to [CC0](http://creativecommons.org/publicdomain/zero/1.0/). THIS IS A TEST EDIT
+This code is dedicated to the public domain to the maximum extent permitted by applicable law, pursuant to [CC0](http://creativecommons.org/publicdomain/zero/1.0/). THIS IS A TEST EDIT. HERES ANOTHER
